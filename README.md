@@ -17,7 +17,7 @@ SurgEye addresses fine-grained surgical scene understanding and evidence-grounde
 
 ## My Contributions
 
-My main responsibility was the **T3 action triplet recognition component**, which recognises **instrument–verb–target** interactions in surgical images.
+My main responsibility was the **Action triplet recognition component**, which recognises **instrument–verb–target** interactions in surgical images.
 
 - Prepared and harmonised surgical datasets and annotations for action and triplet recognition.
 - Implemented and trained recognition models using a frozen DINOv3-L backbone, LoRA adaptation and task-specific prediction heads.
@@ -55,7 +55,6 @@ SurgEye outperformed the evaluated VLM baselines across all four reasoning dimen
 
 **Title:** SurgEye: Instruction Tuning-Free Perception-Reasoning Framework for Surgical Scene Understanding
 
-**Authors, in manuscript order:** Qing Xu, Xiechen Shen, Xianjian He, Guqiao Liang, Zixiao Chai, Jiale Qin, Yifan Chen, Siyi Li, Tian Yuan, Yiwei Li, Ziheng Meng and Zhen Chen.
 
 **Submission:** IEEE International Symposium on Biomedical Imaging (ISBI) 2027.
 
