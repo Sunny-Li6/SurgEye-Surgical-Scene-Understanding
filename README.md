@@ -58,7 +58,6 @@ SurgEye outperformed the evaluated VLM baselines across all four reasoning dimen
 
 **Submission:** IEEE International Symposium on Biomedical Imaging (ISBI) 2027.
 
-The manuscript PDF will be added to this repository. This submission has not yet been accepted for publication.
 
 ## Research Areas
 
