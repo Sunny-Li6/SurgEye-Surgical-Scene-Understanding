@@ -17,7 +17,7 @@ SurgEye addresses fine-grained surgical scene understanding and evidence-grounde
 
 ## My Contributions
 
-My main responsibility was the **Action triplet recognition component**, which recognises **instrument–verb–target** interactions in surgical images.
+My main responsibility was the **Action triplet recognition component**, which recognises **instrument–verb–target** interactions in surgical images，and participate in surgical instrument recognition and anatomical structure segmentation
 
 - Prepared and harmonised surgical datasets and annotations for action and triplet recognition.
 - Implemented and trained recognition models using a frozen DINOv3-L backbone, LoRA adaptation and task-specific prediction heads.
