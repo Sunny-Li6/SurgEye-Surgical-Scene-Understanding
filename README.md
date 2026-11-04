@@ -1,9 +1,23 @@
 # SurgEye
 ### Instruction Tuning-Free Perception-Reasoning Framework for Surgical Scene Understanding
 
-**Status:** Submitted to [IEEE ISBI 2027](https://biomedicalimaging.org/2027/); acceptance pending.
+**Publication status:** [Preprint available on arXiv](https://arxiv.org/abs/2611.04012) (2 November 2026).
+
+**Conference status:** Submitted to [IEEE ISBI 2027](https://biomedicalimaging.org/2027); acceptance pending.
+
+**Paper:** *SurgEye: Instruction Tuning-Free Perception-Reasoning Framework for Surgical Scene Understanding* — [arXiv:2611.04012](https://arxiv.org/abs/2611.04012).
 
 **Personal research portfolio of Siyi Li**, a co-author of the SurgEye manuscript. This page summarises the collaborative project and my individual contributions.
+
+## Paper
+
+**SurgEye: Instruction Tuning-Free Perception-Reasoning Framework for Surgical Scene Understanding**
+
+Qing Xu, Xiechen Shen, Xianjian He, Guqiao Liang, Zixiao Chai, Jiale Qin, Yifan Chen, Siyi Li, Tian Yuan, Yiwei Li, Ziheng Meng, Zhen Chen.
+
+**Preprint:** [arXiv:2611.04012](https://arxiv.org/abs/2611.04012)  
+**DOI:** [10.48550/arXiv.2611.04012](https://doi.org/10.48550/arXiv.2611.04012)  
+**Conference:** Submitted to IEEE ISBI 2027 (under review).
 
 ## Overview
 
